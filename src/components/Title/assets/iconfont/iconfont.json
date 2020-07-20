@@ -1,0 +1,114 @@
+{
+  "id": "1938878",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1698323",
+      "name": "菜单",
+      "font_class": "ic_menu_px",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "2022812",
+      "name": "预定",
+      "font_class": "yuding",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "3167204",
+      "name": "快餐",
+      "font_class": "kuaican",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "4268433",
+      "name": "便利店",
+      "font_class": "convenience-",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6347407",
+      "name": "外卖",
+      "font_class": "_waimai",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "8009755",
+      "name": "甜品彩",
+      "font_class": "tianpincai",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "12785420",
+      "name": "美食",
+      "font_class": "meishi",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "12853172",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13226176",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13813060",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "360048",
+      "name": "登录注册",
+      "font_class": "dengLuZhuCe",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1235790",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4646425",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11717176",
+      "name": "我 的",
+      "font_class": "wode-r-selected",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12801569",
+      "name": "订 单 (1)",
+      "font_class": "dingdan-yes",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

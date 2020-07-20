@@ -1,0 +1,44 @@
+{
+  "id": "1938878",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "360048",
+      "name": "登录注册",
+      "font_class": "dengLuZhuCe",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1235790",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4646425",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11717176",
+      "name": "我 的",
+      "font_class": "wode-r-selected",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12801569",
+      "name": "订 单 (1)",
+      "font_class": "dingdan-yes",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
